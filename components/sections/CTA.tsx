@@ -34,7 +34,7 @@ export default function CTA() {
             className="text-xl text-white/80 mb-8 max-w-2xl mx-auto"
           >
             Join our network of distributors and bring quality healthcare products
-            to your region. Let's build a healthier future together.
+            to your region. Let&apos;s build a healthier future together.
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 20 }}

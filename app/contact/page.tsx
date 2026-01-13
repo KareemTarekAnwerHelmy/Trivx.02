@@ -63,7 +63,7 @@ export default function ContactPage() {
           </h1>
           <p className="text-xl text-white/70 max-w-2xl mx-auto">
             Ready to partner with us? Fill out the form below or contact us directly.
-            We're here to help you bring quality healthcare products to your region.
+            We&apos;re here to help you bring quality healthcare products to your region.
           </p>
         </motion.div>
 
@@ -118,7 +118,7 @@ export default function ContactPage() {
                 animate={{ opacity: 1, scale: 1 }}
                 className="mb-6 p-4 bg-green-500/20 border border-green-500/50 rounded-lg text-green-400 text-center"
               >
-                Thank you! We'll get back to you soon.
+                Thank you! We&apos;ll get back to you soon.
               </motion.div>
             )}
 
